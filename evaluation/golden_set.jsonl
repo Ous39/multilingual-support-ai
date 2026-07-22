@@ -1,0 +1,8 @@
+{"question":"My cash withdrawal has been pending for ten minutes. What should I do?","language":"en","expected_document_ids":["cashout-001"]}
+{"question":"J'ai envoyé de l'argent au mauvais numéro. Comment annuler?","language":"fr","expected_document_ids":["transfer-001"]}
+{"question":"Sama PIN laa fàtte, naka la koy soppi?","language":"wo","expected_document_ids":["account-001"]}
+{"question":"How can I check the fee before sending money?","language":"en","expected_document_ids":["fees-001"]}
+{"question":"Je pense que quelqu'un utilise mon compte.","language":"fr","expected_document_ids":["fraud-001"]}
+{"question":"Reso bi baaxul te jëf ji antuwul.","language":"wo","expected_document_ids":["network-001"]}
+{"question":"The agent says there is not enough cash.","language":"en","expected_document_ids":["agent-001"]}
+{"question":"Pourquoi ma transaction dépasse-t-elle la limite?","language":"fr","expected_document_ids":["limits-001"]}

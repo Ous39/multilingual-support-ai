@@ -1,0 +1,114 @@
+[
+  {
+    "id": "cashout-001",
+    "category": "cash_out",
+    "title": {
+      "en": "Cash withdrawal pending",
+      "fr": "Retrait d'argent en attente",
+      "wo": "Génne xaalis bi yàgg"
+    },
+    "content": {
+      "en": "If a cash withdrawal is pending, do not repeat it immediately. Check the transaction status and balance, keep the transaction reference, and wait up to 15 minutes. If the status is still pending, contact support. Never share a PIN or OTP.",
+      "fr": "Si un retrait est en attente, ne le répétez pas immédiatement. Vérifiez le statut et le solde, conservez la référence et attendez jusqu'à 15 minutes. Si le statut reste en attente, contactez l'assistance. Ne partagez jamais votre code PIN ou OTP.",
+      "wo": "Su génne xaalis bi yàgg, bul ko defaat ci saa si. Seetal xaalisu kont bi ak tolluwaayu jëf ji, denc nimero bi te xaar ba 15 simili. Su mu yàgg ba tey, jokkoo ak ndimbal. Bul joxe sa PIN walla OTP mukk."
+    }
+  },
+  {
+    "id": "transfer-001",
+    "category": "transfer",
+    "title": {
+      "en": "Transfer sent to the wrong number",
+      "fr": "Transfert envoyé au mauvais numéro",
+      "wo": "Yónnee xaalis ci nimero bu jaaduwul"
+    },
+    "content": {
+      "en": "If money was sent to the wrong number, contact support immediately with the transaction reference, amount, date, and recipient number. Reversal is not guaranteed and depends on whether the funds remain available. Do not contact the recipient with threats.",
+      "fr": "Si l'argent a été envoyé au mauvais numéro, contactez immédiatement l'assistance avec la référence, le montant, la date et le numéro destinataire. L'annulation n'est pas garantie et dépend de la disponibilité des fonds. Ne menacez pas le destinataire.",
+      "wo": "Su fekkee yónnee nga xaalis ci nimero bu jaaduwul, jokkoo ak ndimbal ci saa si ak nimero jëf ji, limu xaalis, bés bi ak nimero bi jot. Delloo xaalis bi du lu wóor te dafay aju ci ndax xaalis bi des na. Bul tëkku ki jot xaalis bi."
+    }
+  },
+  {
+    "id": "account-001",
+    "category": "account_access",
+    "title": {
+      "en": "Forgotten PIN",
+      "fr": "Code PIN oublié",
+      "wo": "Fàtte PIN"
+    },
+    "content": {
+      "en": "Use the official PIN reset flow in the app or USSD menu. Support agents will never ask for the current PIN, password, or OTP. If self-service reset fails, contact support from the registered phone number for identity verification.",
+      "fr": "Utilisez la procédure officielle de réinitialisation dans l'application ou le menu USSD. Un agent ne demandera jamais votre PIN, mot de passe ou OTP. Si la procédure échoue, contactez l'assistance depuis le numéro enregistré pour vérifier votre identité.",
+      "wo": "Jëfandikool yoonu soppi PIN bi ci app bi walla ci USSD. Liggéeykatu ndimbal du laaj sa PIN, baatu-jàll walla OTP mukk. Su soppi bi antuwul, jokkoo ak ndimbal ci nimero bi nga bindoon ngir ñu wóor sa dantite."
+    }
+  },
+  {
+    "id": "fees-001",
+    "category": "fees",
+    "title": {
+      "en": "Checking transaction fees",
+      "fr": "Vérifier les frais de transaction",
+      "wo": "Seet peyu jëf"
+    },
+    "content": {
+      "en": "The applicable fee is displayed for confirmation before a transaction is completed. Review the amount and fee before approving. For the latest fee schedule, use the official app, USSD menu, or support channel because fees may change.",
+      "fr": "Les frais applicables sont affichés avant la confirmation de la transaction. Vérifiez le montant et les frais avant d'approuver. Consultez l'application, le menu USSD ou l'assistance pour les tarifs à jour, car ils peuvent changer.",
+      "wo": "Pey bi dina feeñ bala ngay dëggal jëf ji. Seetal limu xaalis ak pey bi bala ngay nangu. Ngir xam pey yi bees, seetal app bi, USSD walla jokkoo ak ndimbal ndax pey yi mën nañu soppeeku."
+    }
+  },
+  {
+    "id": "fraud-001",
+    "category": "security",
+    "title": {
+      "en": "Suspected fraud or account takeover",
+      "fr": "Fraude ou prise de contrôle suspectée",
+      "wo": "Njublaŋ walla ku jël kont bi"
+    },
+    "content": {
+      "en": "If you suspect fraud, stop transacting, change the PIN through the official channel, and contact support immediately. Provide transaction references but never send a PIN, OTP, password, or full identity document in chat. Support may temporarily restrict the account while investigating.",
+      "fr": "En cas de fraude suspectée, arrêtez les transactions, changez le PIN par le canal officiel et contactez immédiatement l'assistance. Donnez les références, mais jamais de PIN, OTP, mot de passe ou document d'identité complet dans le chat. Le compte peut être temporairement restreint pendant l'enquête.",
+      "wo": "Su nga foogee am na njublaŋ, taxawal jëf yi, soppi PIN bi ci yoonu ofisyeel te jokkoo ak ndimbal ci saa si. Joxe nimero jëf yi waaye bul joxe PIN, OTP, baatu-jàll walla kayitu dantite bépp ci waxtaan bi. Mën nañu tëj kont bi ab diir ngir seet mbir mi."
+    }
+  },
+  {
+    "id": "network-001",
+    "category": "connectivity",
+    "title": {
+      "en": "Transaction failed during poor connectivity",
+      "fr": "Échec de transaction avec une mauvaise connexion",
+      "wo": "Jëf ji antuwul ndax reso bi baaxul"
+    },
+    "content": {
+      "en": "When connectivity is poor, avoid repeatedly submitting the same transaction. Wait for a confirmation message, then check the transaction history and balance. If no confirmation appears after 15 minutes, contact support with the approximate time and amount.",
+      "fr": "Si la connexion est mauvaise, évitez de soumettre plusieurs fois la même transaction. Attendez le message de confirmation, puis vérifiez l'historique et le solde. Sans confirmation après 15 minutes, contactez l'assistance avec l'heure approximative et le montant.",
+      "wo": "Su reso bi baaxul, bul yónnee jëf jenn bi ay yoon. Xaar bataaxalu dëggal, ba noppi seetal limu jëf yi ak xaalisu kont bi. Su amul dëggal gannaaw 15 simili, jokkoo ak ndimbal te wax waxtu wi ak limu xaalis."
+    }
+  },
+  {
+    "id": "agent-001",
+    "category": "cash_agent",
+    "title": {
+      "en": "Agent has insufficient cash or float",
+      "fr": "Liquidités insuffisantes chez l'agent",
+      "wo": "Ajaa bi amul xaalis bu doy"
+    },
+    "content": {
+      "en": "If an agent cannot complete a cash-in or cash-out because of insufficient cash or electronic float, cancel the attempt before leaving and use another authorized agent. Confirm the agent identity shown by the official service and request a receipt.",
+      "fr": "Si un agent ne peut pas effectuer le dépôt ou le retrait faute de liquidités, annulez la tentative avant de partir et utilisez un autre agent autorisé. Vérifiez l'identité de l'agent dans le service officiel et demandez un reçu.",
+      "wo": "Su ajaa bi mënuma dugal walla génne xaalis ndax xaalis bi doyul, neenal jëf ji bala ngay dem te jëfandikoo beneen ajaa bu ñu nangu. Seetal dantiteem ci sistem bi te laaj resi."
+    }
+  },
+  {
+    "id": "limits-001",
+    "category": "limits",
+    "title": {
+      "en": "Account and transaction limits",
+      "fr": "Limites du compte et des transactions",
+      "wo": "Kemug kont ak jëf"
+    },
+    "content": {
+      "en": "Transaction and balance limits depend on account verification level and local rules. Check the limits section in the official service. If a limit is reached, complete any requested identity-verification step or wait for the applicable daily or monthly period to reset.",
+      "fr": "Les limites dépendent du niveau de vérification du compte et des règles locales. Consultez la section des limites dans le service officiel. Si une limite est atteinte, terminez la vérification demandée ou attendez la réinitialisation quotidienne ou mensuelle.",
+      "wo": "Kemug jëf ak xaalisu kont dafay aju ci tolluwaayu wóoral kont bi ak yoonu réew mi. Seetal xaaju kem yi ci sistem ofisyeel bi. Su kem bi mat, matal wóoral dantite bi walla xaar ba bés walla weer bi tambaliwaat."
+    }
+  }
+]
